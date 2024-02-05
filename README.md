@@ -2,6 +2,7 @@ proteus-rlc
 ===========
 ### TODOs
 - [ ] all combination of RLC circuits
+- [ ] [Butterworth filter - Wikipedia](https://en.wikipedia.org/wiki/Butterworth_filter)
 
 ### Tutorials
 - [RLC Circuit Analysis (Series And Parallel) – Clearly Explained | Electrical4U](https://www.electrical4u.com/rlc-circuit/)
