@@ -1,5 +1,6 @@
 proteus-rlc
 ===========
+![](rc-rlc-rl.jpg)
 ### TODOs
 - [ ] all combination of RLC circuits
 - [ ] [Butterworth filter - Wikipedia](https://en.wikipedia.org/wiki/Butterworth_filter)
