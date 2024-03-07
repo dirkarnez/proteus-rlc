@@ -13,3 +13,4 @@ proteus-rlc
 - transfer function
 - [Chebyshev filter - Wikipedia](https://en.wikipedia.org/wiki/Chebyshev_filter)
 - [Bode plot - Wikipedia](https://en.wikipedia.org/wiki/Bode_plot)
+- [make a simple AM radio , receives all international radio stations - YouTube](https://www.youtube.com/watch?v=1mkBbEErS20)
